@@ -16,19 +16,19 @@
 
 ## => Site Settings
 ##############################
-text_skin: forest # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
-highlight_theme: default # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
+text_skin: dark # "default" (default), "dark", "forest", "ocean", "chocolate", "orange"
+highlight_theme: tomorrow-night-bright # "default" (default), "tomorrow", "tomorrow-night", "tomorrow-night-eighties", "tomorrow-night-blue", "tomorrow-night-bright"
 url     : # the base hostname & protocol for your site e.g. https://www.someone.com
 baseurl : 
-title   : Your Site Title
+title   : 김민혁의 개발 블로그
 description: > # this means to ignore newlines until "Language & timezone"
-  Your Site Description
+  김민혁의 개발 공부에 대한 내용을 정리한 블로그입니다.
 
 
 ## => Language and Timezone
 ##############################
-lang: # the language of your site, default as "en"
-timezone: # see https://en.wikipedia.org/wiki/List_of_tz_database_time_zones for the available values
+lang: ko
+timezone: KR
 
 
 ## => Author and Social
