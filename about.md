@@ -8,6 +8,6 @@ titles:
 key: page-about
 ---
 
-```javascript
-(() => console.log('Hello, World!'))();
+```java
+System.out.print("백엔드 개발자 김민혁");
 ```
