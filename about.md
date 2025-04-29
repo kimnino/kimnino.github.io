@@ -9,5 +9,5 @@ key: page-about
 ---
 
 ```
-백엔드 개발자 김민혁
+(() => console.log('Hello, World!'))();
 ```
