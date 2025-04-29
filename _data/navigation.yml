@@ -2,12 +2,18 @@ header:
   - titles:
       # @start locale config
       en      : &EN       Archive
+      ko      : &KO       카테고리
+    url: /categories/
+
+  - titles:
+      # @start locale config
+      en      : &EN       Archive
       ko      : &KO       글
-    url: /archive.html
+    url: /posts/
 
   - titles:
       # @start locale config
       en      : &EN       About
       ko      : &KO       소개
       # @end locale config
-    url: /about.html
+    url: /about/
